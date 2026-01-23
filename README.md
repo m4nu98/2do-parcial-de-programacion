@@ -1,4 +1,3 @@
-### 2do-parcial-de-programacion
  ## Características
 
 *   **Formulario de ingreso de datos:** Permite a los usuarios agregar nuevos vehículos a la base de datos, especificando la siguiente información:
@@ -16,5 +15,6 @@
 2.  Completa el formulario con la información del vehículo.
 3.  Haz clic en el botón "Guardar".
 4.  La información del vehículo se guardará en la base de datos.
+
 
 
